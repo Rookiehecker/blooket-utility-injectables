@@ -1,8 +1,8 @@
 {
-	"title": "Custom Maps",
-	"description": "Adds some custom tower defense maps to the game",
-	"author": "ThatFruedDued",
-	"url": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/injectable.json",
+	"title": "Sussy Maps",
+	"description": "OOF",
+	"author": "Hecker Men",
+	"url": "https://rookiehecker.github.io/blooket-utility-injectables/injectables/customMaps/injectable.json",
 	"scripts": [
 		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/setup.js",
 		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/islands.js",
