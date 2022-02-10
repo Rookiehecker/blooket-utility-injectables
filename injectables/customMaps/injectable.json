@@ -5,7 +5,7 @@
 	"url": "https://rookiehecker.github.io/blooket-utility-injectables/injectables/customMaps/injectable.json",
 	"scripts": [
 		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/setup.js",
-		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/islands.js",
+		"https://rookiehecker.github.io/blooket-utility-injectables/injectables/customMaps/islands.js",
 		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/volatileVolcano.js",
 		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/yoshiMeadow.js"
 	],
