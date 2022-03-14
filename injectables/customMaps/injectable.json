@@ -5,7 +5,7 @@
 	"url": "https://rookiehecker.github.io/blooket-utility-injectables/injectables/customMaps/injectable.json",
 	"scripts": [
 		"https://rookiehecker.github.io/blooket-utility-injectables/injectables/customMaps/setup.js",
-		"https://rookiehecker.github.io/blooket-utility-injectables/injectables/customMaps/islands.js"
+		"https://raw.githubusercontent.com/Rookiehecker/blooket-utility-injectables/main/injectables/customMaps/islands.js"
 	],
 	"setupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/setup.js",
 	"cleanupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/cleanup.js"
